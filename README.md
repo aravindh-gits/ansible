@@ -1,4 +1,4 @@
-# Ansible Comprehensive Guide
+# Ansible
 
 ## Introduction
 Ansible is an open-source automation tool that simplifies cloud provisioning, configuration management, application deployment, intra-service orchestration, and many other IT needs.
